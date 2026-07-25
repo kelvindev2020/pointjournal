@@ -84,7 +84,7 @@ venv yourself.
 python3 -m pip install --user pipx
 pipx ensurepath
 # close and reopen your terminal, then:
-pipx install "git+https://github.com/<your-username>/pointjournal.git"
+pipx install "git+https://github.com/kelvindev2020/pointjournal.git"
 ```
 
 **macOS (Terminal.app):** same commands as Linux above.
@@ -94,7 +94,7 @@ pipx install "git+https://github.com/<your-username>/pointjournal.git"
 py -m pip install --user pipx
 py -m pipx ensurepath
 :: close and reopen cmd, then:
-pipx install "git+https://github.com/<your-username>/pointjournal.git"
+pipx install "git+https://github.com/kelvindev2020/pointjournal.git"
 ```
 
 ### Option B — plain pip (no isolation)
@@ -103,7 +103,7 @@ Simpler, but installs into your regular user Python environment instead of
 an isolated one:
 
 ```bash
-pip install --user "git+https://github.com/<your-username>/pointjournal.git"
+pip install --user "git+https://github.com/kelvindev2020/pointjournal.git"
 ```
 
 ### Verify (any option, any OS)
