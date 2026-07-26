@@ -292,7 +292,7 @@ pytest
 ## Support
 
 This is a free, independently-built tool. If it's useful to you, a donation
-is appreciated but never required: **[PayPal — paypal.me/your-paypal-username]**
+is appreciated but never required: **[PayPal — paypal.me/kelvindev2020]**
 
 (GitHub Sponsors coming later once approved.)
 
